@@ -1,0 +1,35 @@
+m$kartikeya.mp4
+kartikeya.mp4
+481919421
+m
+920
+pieceWiseHash/m$kartikeya.mp4.txt
+b c 
+m$sample.mkv
+sample.mkv
+844164397
+m
+1611
+pieceWiseHash/m$sample.mkv.txt
+a a b c d 
+m$two.mkv
+two.mkv
+844164397
+m
+1611
+pieceWiseHash/m$two.mkv.txt
+a b c d 
+m$video.mp4
+video.mp4
+181124063
+m
+346
+pieceWiseHash/m$video.mp4.txt
+a 
+w$video.mp4
+video.mp4
+181124063
+w
+346
+pieceWiseHash/w$video.mp4.txt
+### 
